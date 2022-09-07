@@ -2,7 +2,7 @@
 
 Iniciando um projeto Go utilizando Workspace
 
-Crie a estrutura de diretórios conforme desenha abaixo:
+Crie a estrutura de diretórios conforme diagrama abaixo:
 
 ![estrutura](./image/workspace.png)
 
@@ -47,7 +47,7 @@ package modulo
 
 //Funcao soma dois inteiros
 func Funcao(a int64, b int64) int64 {
-	return a + b
+   return a + b
 }
 ```
 
